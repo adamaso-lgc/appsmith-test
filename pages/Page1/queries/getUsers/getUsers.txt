@@ -1,3 +1,2 @@
 SELECT *
-FROM public."users"
-LIMIT 10;
+FROM public."users";
