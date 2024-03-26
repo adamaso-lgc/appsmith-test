@@ -13,6 +13,9 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#D6D1F2",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedCustomJSLibs": [
     {
       "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"

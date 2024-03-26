@@ -21,7 +21,7 @@
     "animateLoading": true,
     "parentColumnSpace": 15.4375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 11,
+    "leftColumn": 16,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "children": [{
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
@@ -68,7 +68,7 @@
     "key": "n05hhszm9j",
     "backgroundColor": "#FFFFFF",
     "isDeprecated": false,
-    "rightColumn": 52,
+    "rightColumn": 46,
     "dynamicHeight": "FIXED",
     "widgetId": "dww7pjidk9",
     "containerStyle": "card",
