@@ -1,7 +1,8 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Welcome",
+    "slug": "welcome",
+    "customSlug": "",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_getUsers",
+              "id": "Welcome_getUsers",
               "name": "getUsers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -39,7 +40,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Welcome",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -50,5 +51,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6601aa47dbcdb0562a805617_6601aaf3dbcdb0562a805620"
+  "gitSyncId": "6601aa47dbcdb0562a805617_6601b695dbcdb0562a80562d"
 }

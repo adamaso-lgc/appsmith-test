@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Login",
       "isDefault": true
+    },
+    {
+      "id": "Welcome",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -17,6 +21,11 @@
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": false
+  },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false

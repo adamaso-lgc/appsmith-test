@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Welcome",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -38,7 +38,7 @@
     "userPermissions": [],
     "createdAt": "2023-10-11T07:32:30Z"
   },
-  "id": "Page1_getUsers",
+  "id": "Welcome_getUsers",
   "deleted": false,
-  "gitSyncId": "6601aa47dbcdb0562a805617_6601aaf3dbcdb0562a805625"
+  "gitSyncId": "6601aa47dbcdb0562a805617_6601b695dbcdb0562a805630"
 }
