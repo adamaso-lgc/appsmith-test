@@ -1,0 +1,11 @@
+query ListStudents {
+  listStudents {
+    items {
+      id
+      name
+      age
+      certified
+    }
+    nextToken
+  }
+}

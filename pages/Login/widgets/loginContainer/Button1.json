@@ -5,7 +5,7 @@
     "widgetName": "Button1",
     "onClick": "{{navigateTo('https://adminpoc.auth.us-east-1.amazoncognito.com/authorize?response_type=token&client_id=3amhh16houqke85al2ja3ifjfu&redirect_uri=http://localhost/app/appsmith-test/login-6601aaf3dbcdb0562a805621', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "dynamicPropertyPathList": [],
+    "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [
