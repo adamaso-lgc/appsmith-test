@@ -14,7 +14,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 980,
+          "bottomRow": 380,
           "containerStyle": "none",
           "snapRows": 128,
           "parentRowSpace": 1,
@@ -27,28 +27,6 @@
           "leftColumn": 0
         },
         "layoutOnLoadActions": [
-          [
-            {
-              "id": "Welcome_getUsers",
-              "name": "getUsers",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Welcome_get_user",
-              "name": "get_user",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "appsmith.store.access_token"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
           [
             {
               "id": "Welcome_students",
