@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Welcome",
-    "slug": "welcome",
+    "name": "Projects",
+    "slug": "projects",
     "customSlug": "",
     "layouts": [
       {
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Welcome_students",
+              "id": "Projects_students",
               "name": "students",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -40,7 +40,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Welcome",
+        "id": "Projects",
         "deleted": false,
         "policies": [],
         "userPermissions": []

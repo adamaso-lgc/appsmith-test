@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Welcome",
+    "pageId": "Projects",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -53,7 +53,7 @@
     "userPermissions": [],
     "createdAt": "2024-04-04T10:37:40Z"
   },
-  "id": "Welcome_students",
+  "id": "Projects_students",
   "deleted": false,
   "gitSyncId": "6601aa18dbcdb0562a805611_660e82f4a0f76e7fe38060df"
 }
