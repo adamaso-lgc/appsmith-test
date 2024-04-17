@@ -23,12 +23,11 @@
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
-        {"key": "fontFamily"},
-        {"key": "text"}
+        {"key": "fontFamily"}
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Welcome, {{get_user.data.email}}",
+    "text": "Appsync data",
     "key": "ph5glqkph7",
     "isDeprecated": false,
     "rightColumn": 63,
